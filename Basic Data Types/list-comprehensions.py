@@ -1,7 +1,7 @@
 # new_list = [biểu thức for biến in vòng lặp if điều kiện]
 """
-Đẹp và Gọn = Dùng.
-Dài và Rối (khiến code khó đọc hơn) = Bỏ, quay về dùng vòng lặp thường.
+Đẹp và Gọn = Dùng
+Dài và Rối (khiến code khó đọc hơn) = Bỏ, quay về dùng vòng lặp thường
 """
 if __name__ == '__main__':
     x = int(input())
